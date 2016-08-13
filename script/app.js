@@ -7,6 +7,7 @@ var INFO = [
       tel: "89297220291"
   },
   {
+
       id: 1,
       name: "Masha",
       img: 'http://www.clker.com/cliparts/b/1/f/a/1195445301811339265dagobert83_female_user_icon.svg.med.png',
